@@ -1,0 +1,17 @@
+/api-odata-calls/appsettings.json
+/.vs/api-odata-calls/v16/Server/sqlite3/db.lock
+/.vs/api-odata-calls/v16/Server/sqlite3/storage.ide
+/.vs/api-odata-calls/v16/Server/sqlite3/storage.ide-shm
+/.vs/api-odata-calls/v16/Server/sqlite3/storage.ide-wal
+/api-odata-calls/bin/Debug
+/.vs/api-odata-calls/v16/Server/sqlite3
+/api-odata-calls/obj/Debug/netcoreapp2.2/api-odata-calls.AssemblyInfo.cs
+/api-odata-calls/obj/Debug/netcoreapp2.2/api-odata-calls.AssemblyInfoInputs.cache
+/api-odata-calls/obj/Debug/netcoreapp2.2/api-odata-calls.RazorAssemblyInfo.cache
+/api-odata-calls/obj/Debug/netcoreapp2.2/api-odata-calls.RazorAssemblyInfo.cs
+/api-odata-calls/obj/Debug/netcoreapp2.2/api-odata-calls.RazorTargetAssemblyInfo.cache
+/api-odata-calls/obj/Debug/netcoreapp2.2/api-odata-calls.assets.cache
+/api-odata-calls/obj/Debug/netcoreapp2.2/api-odata-calls.csproj.FileListAbsolute.txt
+/api-odata-calls/obj/Debug/netcoreapp2.2/api-odata-calls.csprojAssemblyReference.cache
+/api-odata-calls/obj/Debug/netcoreapp2.2/api-odata-calls.dll
+/api-odata-calls/obj/Debug/netcoreapp2.2/api-odata-calls.pdb
