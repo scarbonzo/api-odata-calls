@@ -46,7 +46,7 @@ namespace api_odata_calls
             app.UseMvc(routeBuilder =>
             {
                 routeBuilder.EnableDependencyInjection();
-                routeBuilder.Filter().Expand().Select().Count().MaxTop(10).OrderBy();
+                routeBuilder.Filter().Expand().Select().Count().MaxTop(null).OrderBy();
             });
         }
     }
